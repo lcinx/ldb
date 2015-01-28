@@ -2,4 +2,4 @@ ldb
 ===
 
 
-lua remote debug
+a lua remote debugger
